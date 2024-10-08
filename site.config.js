@@ -6,12 +6,12 @@ const CONFIG = {
     role: "Cloud Engineer(SRE) | BE",
     email: "cheongsan@cheongsan.com",
     gravatar_email: process.env.GRAVATAR_PROFILE_EMAIL || "",
-    gravatar: "cheongsando",
-    linkedin: "cheongsan",
-    github: "cheongsan",
-    gitlab: "cheongsan",
-    bitbucket: "cheongsan",
-    instagram: "cheongsando_",
+    gravatar: "",
+    linkedin: "",
+    github: "",
+    gitlab: "",
+    bitbucket: "",
+    instagram: "",
   },
   projects: [
     {
@@ -25,7 +25,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "CHEONGSANDO",
+    title: "810C.CN",
     description: "desertisland",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
@@ -33,7 +33,7 @@ const CONFIG = {
   // CONFIG configration (required)
   link: "https://cheongsando.vercel.app",
   since: 2024, // If leave this empty, current year will be used.
-  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
