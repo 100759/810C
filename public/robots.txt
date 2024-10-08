@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://cheongsando.vercel.app
+
+# Sitemaps
+Sitemap: https://cheongsando.vercel.app/sitemap.xml
