@@ -1,5 +1,2 @@
-# CHEONGSANDO Blog
-
-morethan-log를 기반으로 제작된 블로그입니다.
-
-https://cheongsando.vercel.app
+# jan-log
+customized blog template based on @morethanmin/morethan-log
